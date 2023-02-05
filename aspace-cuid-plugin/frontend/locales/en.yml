@@ -1,0 +1,5 @@
+en:
+  archival_object:
+    component_id_auto_generation_message: -- auto-generated upon save -- 
+  validation_errors:
+    is_already_taken: is already taken.
