@@ -1,6 +1,8 @@
 # frozen_string_literal: true
 
 require 'jsonmodel'
+require_relative '../sequence'
+
 
 # This adds functionality for using CUIDs. Is mixed into the ArchivalObject
 # class
